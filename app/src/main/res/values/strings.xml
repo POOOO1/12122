@@ -2,4 +2,13 @@
     <string name="app_name">fucking</string>
     <string name="edit_message">Введите сообщение</string>
     <string name="button_send">Отправить</string>
+    <string name="sum_deposite">Введите сумму депозита</string>
+    <string name="Currency">Выберите валюту депозита</string>
+    <string name="Time_deposite">Срок</string>
+    <string name="Condition">Дополнительные условия</string>
+    <string name="plus_money">Пополнение счета</string>
+    <string name="minus_money">Частичное снятие</string>
+    <string name="Capital_procent">Капитализация процентов</string>
+    <string name="month_money">Выплата % ежемесячно</string>
+    <string name="Search_deposite">Поиск депозита</string>
 </resources>
